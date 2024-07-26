@@ -1,0 +1,15 @@
+git init
+
+git status 
+
+git add code.txt 
+
+git commit -m "file has been added" 
+
+git status 
+
+git log 
+
+git remote add origin https://github.com/Flaque/quirk  
+
+git push origin master 
